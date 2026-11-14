@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "unitconv-yourname"   # change to a unique name for PyPI
+name = "unitconv-azizs"   # change to a unique name for PyPI
 version = "0.3.0"
 description = "Dependency-free unit and currency converter with a CLI and a Quantity class"
 readme = "README.md"
@@ -19,9 +19,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/unitconv"
-Issues = "https://github.com/YOUR_USERNAME/unitconv/issues"
-Changelog = "https://github.com/YOUR_USERNAME/unitconv/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/azizs-dnv/unitconv"
+Issues = "https://github.com/azizs-dnv/unitconv/issues"
+Changelog = "https://github.com/azizs-dnv/unitconv/blob/main/CHANGELOG.md"
 
 [project.optional-dependencies]
 dev = ["pytest", "ruff", "build"]
