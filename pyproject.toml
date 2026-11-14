@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "unitconv-azizs"   # change to a unique name for PyPI
+name = "unitconv-azizs"   
 version = "0.3.0"
 description = "Dependency-free unit and currency converter with a CLI and a Quantity class"
 readme = "README.md"
