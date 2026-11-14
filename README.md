@@ -102,4 +102,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details and [CHANGELOG.md](CHANGELOG.
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Replace `Aziz` in the license file with your own name.
+MIT, see [LICENSE](LICENSE).
