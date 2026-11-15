@@ -11,7 +11,7 @@ A dependency-free Python library for converting units and currencies, with a com
 ```bash
 pip install unitconv-azizs        # once published to PyPI
 # or from source:
-git clone https://github.com/YOUR_USERNAME/unitconv.git
+git clone https://github.com/azizs-dnv/unitconv.git
 cd unitconv
 pip install -e ".[dev]"
 ```
